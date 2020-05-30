@@ -1,4 +1,4 @@
-## 欢迎访问yutianjian的个人网页
+## 欢迎访问
 
 ### 电子邮件: yu_tian_jian@163.com
 
