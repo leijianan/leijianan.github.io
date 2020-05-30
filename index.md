@@ -200,7 +200,7 @@ IPTV网络电视播放器包括iOS、Mac OS和tvOS版本，其中iOS版本为免
 IPTV网络电视播放器, 在你的iMac或MBP上看电视，听广播。 
 网络电视直播资源十分丰富，坐在iMac电脑前，就可以看世界各地的电视、电影。
 
-详情请访问： [IPTV Player Support Website](https://tvplayersupport.github.io/IPTVPlayerSupport/)
+详情请访问： [IPTV Player Support Website](https://tvplayersupport.github.io/TVPlayerSupport/)
 
 ## (11) 家庭理财记账
 
