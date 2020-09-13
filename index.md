@@ -29,12 +29,8 @@ My Android Apps (Google play App Store) include:
 （5）象棋学士，象棋打谱软件，自带棋谱库。
 （6）象棋杀法练习。
 （7）五子棋打谱软件。
-（8）红心大战。
-（9）两副牌斗地主。
-（10）拱猪吧。
-（11）国际象棋PGN阅读器。
-（12）IPTV网络电视播放器
-    详情访问: [IPTV网络电视播放器技术支持网页](https://tvplayersupport.github.io/TVPlayerSupport/)
+（8）两副牌斗地主。
+（9）国际象棋PGN阅读器。
 
 ## (1) 桥牌做庄练习（Bridge Exercises）
 
